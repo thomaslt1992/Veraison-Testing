@@ -3,7 +3,7 @@
 Testing the functionallity of Veraison
 
 # Prerequisites
-https://github.com/veraison/go-cose
+
 - You wil need GO language installed in your system for more info on how to install look [here][1]
 - Besides your ``.go`` file you will need the package handler ``go.mod`` in the same folder to verify the imports
 - I highly suggest the usage of **Vs Code** and the extension of **GO by team Google** which autocompletes the import functions 
